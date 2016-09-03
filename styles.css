@@ -1,0 +1,26 @@
+body {
+	
+}
+
+.googlelogo{
+	display: block;
+	width: 272px; 
+	height: 92px;
+	margin: 0 auto;
+	padding: 200px 0px 0px 0px;
+}
+
+.wrapper{
+	width: 70%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.searchbar{
+	display: block;
+	margin: 0 auto;
+}
+
+.search{
+	display: inline-block;
+}
